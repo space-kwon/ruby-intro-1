@@ -4,15 +4,32 @@
 
 # In Ruby, there are different *types* of data:
 
-# Numbers
+# Numbers puts ()
+puts 3
+puts 5
+
+puts 3 + 5
+puts 3 * 5
+puts 3 - 5
+puts 3.0 / 5.0
 
 # Non-numbers
+puts "unicorn"
 
 # True, False
+puts true
+puts false
 
 # Nothing
 
 # Variables
+x = 3
+y = 5
+puts x
+puts y
+z = 3 * 5
+puts x * y
+puts z
 
 # Combine strings and variables
 
