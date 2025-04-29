@@ -3,14 +3,14 @@
 # ruby 5-loops.rb
 
 # Infinite Tacos -> Finite Tacos
-# index = 0
-# loop do
-#   puts "tacos!"
-#   if index == 10
-#     break
-#   end
-#   index = index + 1
-# end
+index = 0
+loop do
+  puts "tacos!"
+  if index == 10
+    break
+  end
+  index = index + 1
+end
 
 # Loop through tacos
 tacos = ["carnitas", "carne asada", "pollo", "pescado", "avocado", "tofu"]
